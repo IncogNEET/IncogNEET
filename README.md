@@ -3,8 +3,6 @@
 
 ⚐ Based in Japan
 
-ϟ Currently learning design and IT stuff at a vocational school.
-
 ϟ Recently made a [cool stopwatch web application](https://stopwatch-sable.vercel.app)!
 
  ## Skills
