@@ -1,5 +1,5 @@
 # IncogNEET
-### I love to make cool stuff.
+### A guy who love to make cool stuff.
 
 ⚐ Based in Japan
 
