@@ -1,4 +1,4 @@
-# [IncogNEET](incogneet.vercel.app)
+# [IncogNEET](https://incogneet.vercel.app)
 ### guy who loves making cool stuff
 
 
